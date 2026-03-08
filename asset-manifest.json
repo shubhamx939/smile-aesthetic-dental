@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smile-aesthetic-dental/static/css/main.e6c13ad2.css",
+    "main.js": "/smile-aesthetic-dental/static/js/main.6a950976.js",
+    "static/js/453.f73ddfe2.chunk.js": "/smile-aesthetic-dental/static/js/453.f73ddfe2.chunk.js",
+    "index.html": "/smile-aesthetic-dental/index.html",
+    "main.e6c13ad2.css.map": "/smile-aesthetic-dental/static/css/main.e6c13ad2.css.map",
+    "main.6a950976.js.map": "/smile-aesthetic-dental/static/js/main.6a950976.js.map",
+    "453.f73ddfe2.chunk.js.map": "/smile-aesthetic-dental/static/js/453.f73ddfe2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6a950976.js"
+  ]
+}
